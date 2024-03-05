@@ -1,0 +1,2 @@
+from cryptogainanalyzer.file_manager.main import FileManager
+from cryptogainanalyzer.coin_api_consumer.main import CoinApiConsumer

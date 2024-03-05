@@ -1,0 +1,4 @@
+black
+pytest
+requests
+python-decouple
